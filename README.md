@@ -43,8 +43,8 @@ I’m a **DevOps enthusiast** and fresher, passionate about automating, deployin
 
 ## 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 📧 your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/dishant-drugkar/)
+- 📧 dishantdrugkar1@gmail.com
 
 ---
 
