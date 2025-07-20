@@ -17,18 +17,10 @@ I’m a **DevOps enthusiast** and fresher, passionate about automating, deployin
 
 ---
 
-## 📌 My Projects
-
-| Project | Description |
-|---------|-------------|
-| [Shell Scripts for DevOps](https://github.com/YourUsername/shell-scripting-for-DevOps) | Collection of useful Bash scripts for automating tasks. |
-| [Dockerize a Node App](https://github.com/YourUsername/docker-node-app) | Sample project containerized with Docker. |
-| [CI/CD Pipeline](https://github.com/YourUsername/ci-cd-demo) | Basic CI/CD pipeline using GitHub Actions. |
-
----
-
 ## 📖 Currently Learning
-
+- Networking, Shell scripting 
+- Docker
+- CI/CD
 - Kubernetes
 - Terraform
 - Advanced AWS services (EKS, Lambda)
@@ -37,7 +29,7 @@ I’m a **DevOps enthusiast** and fresher, passionate about automating, deployin
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DishantDrugkar&show_icons=true&theme=radical)
 
 ---
 
