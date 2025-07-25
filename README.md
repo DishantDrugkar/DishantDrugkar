@@ -18,7 +18,7 @@ I’m a **DevOps enthusiast** and fresher, passionate about automating, deployin
 ---
 
 ## 📖 Currently Learning
-- Networking, Shell scripting 
+- Networking
 - Docker
 - CI/CD
 - Kubernetes
