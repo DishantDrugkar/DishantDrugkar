@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Dishant Drugkar! 
+# 👋 Hii I'm Dishant Drugkar! 
 
 I’m a **DevOps enthusiast** and fresher, passionate about automating, deploying, and managing cloud-native applications.
 
