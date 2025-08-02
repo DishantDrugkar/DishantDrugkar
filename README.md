@@ -7,7 +7,7 @@ I’m a **DevOps enthusiast** and fresher, passionate about automating, deployin
 ## 🚀 Tech & Tools
 
 - **Languages:** Bash, Python, YAML
-- **CI/CD:** GitHub Actions, Jenkins (basic)
+- **CI/CD:** Jenkins (basic)
 - **Containerization:** Docker
 - **Orchestration:** Learning Kubernetes
 - **Cloud:** AWS (basic EC2, S3)
