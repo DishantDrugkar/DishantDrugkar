@@ -9,7 +9,7 @@ I’m a **DevOps enthusiast** and fresher, passionate about automating, deployin
 - **Languages:** Bash, Python, YAML
 - **CI/CD:** Jenkins (basic)
 - **Containerization:** Docker
-- **Orchestration:** Learning Kubernetes
+- **Orchestration:** Kubernetes
 - **Cloud:** AWS (basic EC2, S3)
 - **Infrastructure as Code:** Terraform (learning)
 - **Monitoring:** Prometheus, Grafana (basics)
