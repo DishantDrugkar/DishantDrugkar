@@ -1,4 +1,4 @@
-![Banner](./dishantdrugkar1@gmail.com%20(1).png)
+![Banner](./dishantgithub.png)
 
 # 👋 Hii I'm Dishant Drugkar! 
 
