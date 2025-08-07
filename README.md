@@ -1,4 +1,4 @@
-![Banner](./dishantgithub.png)
+![Banner](./dishantlgithub.png)
 
 # 👋 Hii I'm Dishant Drugkar! 
 
