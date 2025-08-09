@@ -22,7 +22,6 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
 ## 📖 Currently Learning
 
 - Networking  
-- Docker  
 - CI/CD  
 - Kubernetes  
 - Terraform  
