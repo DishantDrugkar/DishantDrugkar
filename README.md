@@ -40,7 +40,6 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
 - [LinkedIn](https://www.linkedin.com/in/dishant-drugkar/)
 - 📧 dishantdrugkar1@gmail.com
 - 🌐 [www.dishantdrugkar.in](http://www.dishantdrugkar.in)
-- 📱 +91 8623895696
 
 ---
 
