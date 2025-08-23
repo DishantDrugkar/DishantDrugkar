@@ -6,41 +6,46 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
 
 ---
 
-## 🚀 Tech & Tools
+## 🛠️ Tech Stack & Tools  
 
-- **Languages:** Bash, Python, YAML  
-- **CI/CD:** Jenkins (basic)  
-- **Containerization:** Docker  
-- **Orchestration:** Kubernetes  
-- **Cloud:** AWS (basic EC2, S3)  
-- **Infrastructure as Code:** Terraform (learning)  
-- **Monitoring:** Prometheus, Grafana (basics)  
-- **OS:** Linux (Ubuntu)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,python,docker,kubernetes,aws,terraform,jenkins,linux,prometheus,grafana" />
+</p>  
 
 ---
 
-## 📖 Currently Learning
+## 📊 GitHub Stats & Activity  
 
-- Networking  
-- CI/CD  
-- Kubernetes  
-- Terraform  
-- Advanced AWS services (EKS, Lambda)
-
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="400">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DishantDrugkar&theme=radical" height="220"/>
+      </td>
+      <td align="center" width="400">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DishantDrugkar&theme=radical" height="220"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="400">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DishantDrugkar&theme=radical" height="220"/>
+      </td>
+      <td align="center" width="400">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DishantDrugkar&theme=radical&utcOffset=5.5" height="220"/>
+      </td>
+    </tr>
+  </table>
+</p>
 ---
 
-## 📈 GitHub Stats
+## 📈 Contribution Overview  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DishantDrugkar&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DishantDrugkar&theme=radical" height="180" />
+</p>
 
----
 
-## 📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/dishant-drugkar/)
-- 📧 dishantdrugkar1@gmail.com
-- 🌐 [www.dishantdrugkar.in](http://www.dishantdrugkar.in)
 
----
 
 *Always learning. Always building.*
