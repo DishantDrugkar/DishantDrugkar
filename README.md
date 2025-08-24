@@ -41,7 +41,7 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
 ## 📈 Contribution Overview  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DishantDrugkar&theme=radical" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DishantDrugkar&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
 
 <p align="center">
