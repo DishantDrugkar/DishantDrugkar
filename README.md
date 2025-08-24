@@ -36,7 +36,7 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
     </tr>
   </table>
 </p>
----
+
 
 ## 📈 Contribution Overview  
 
