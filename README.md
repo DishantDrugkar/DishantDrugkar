@@ -41,7 +41,7 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
 ## 📈 Contribution Overview  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DishantDrugkar&theme=radical" height="180" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DishantDrugkar&theme=radical" alt="Activity Graph"/>
 </p>
 
 ## 📖 Currently Learning  
