@@ -44,6 +44,10 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DishantDrugkar&theme=radical" alt="Activity Graph"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DishantDrugkar&theme=radical" alt="GitHub Streak"/>
+</p>
+
 ## 📖 Currently Learning  
 
 - 📌 Networking Fundamentals  
