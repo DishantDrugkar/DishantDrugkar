@@ -45,9 +45,8 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DishantDrugkar&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=DishantDrugkar&theme=radical" alt="GitHub Streak"/>
 </p>
-
 ## 📖 Currently Learning  
 
 - 📌 Networking Fundamentals  
