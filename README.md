@@ -47,7 +47,8 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=DishantDrugkar&theme=radical" alt="GitHub Streak"/>
 </p>
-## 📖  Continue Learning
+
+## 📖 Currently Learning  
 
 - 📌 Networking Fundamentals  
 - 📌 CI/CD Automation  
@@ -55,7 +56,6 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
 - 📌 Terraform for Infrastructure as Code  
 - 📌 AWS (EKS, Lambda, Advanced Services)  
 
----
 
 ## 🤝 Let’s Connect  
 
