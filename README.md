@@ -9,7 +9,7 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,python,docker,kubernetes,aws,terraform,jenkins,linux,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=linux,python,docker,kubernetes,aws,terraform,jenkins,bash,prometheus,grafana" />
 </p>  
 
 ---
