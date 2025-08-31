@@ -53,8 +53,7 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
 
 ## 📖 Currently Learning  
 
-- 📌 Networking Fundamentals  
-- 📌 CI/CD Automation  
+- 📌 Networking Fundamentals    
 - 📌 Kubernetes & Cloud Orchestration  
 - 📌 Terraform for Infrastructure as Code  
 - 📌 AWS (EKS, Lambda, Advanced Services)  
