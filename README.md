@@ -62,9 +62,13 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
 ## 🤝 Let’s Connect  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dishant-drugkar/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:dishantdrugkar1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail" /></a>
-</p>  
+  <a href="https://www.linkedin.com/in/dishant-drugkar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Dishant%20Drugkar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:dishantdrugkar1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dishantdrugkar1%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 
 
