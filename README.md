@@ -9,6 +9,10 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
   <img src="https://img.shields.io/badge/Profile%20Views-500+-0e75b6?style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DishantDrugkar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
