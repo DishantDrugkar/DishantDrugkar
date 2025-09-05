@@ -13,13 +13,6 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
   <img src="https://komarev.com/ghpvc/?username=DishantDrugkar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <!-- Profile Views -->
-  <img src="https://komarev.com/ghpvc/?username=DishantDrugkar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
-  <!-- Unique Visitors -->
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DishantDrugkar.DishantDrugkar&left_color=blue&right_color=green&style=for-the-badge" alt="Visitors" />
-</p>
 
 ## 🛠️ Tech Stack & Tools  
 
