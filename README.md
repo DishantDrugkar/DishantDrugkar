@@ -14,7 +14,7 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Logo" width="28" />
   <img src="https://komarev.com/ghpvc/?username=DishantDrugkar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
