@@ -10,7 +10,7 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DishantDrugkar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DishantDrugkar&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
 
