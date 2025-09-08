@@ -74,4 +74,4 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
 
 
 
-*Always learning. Always building. With ❤️*
+*Always learning. Always building.*
