@@ -6,7 +6,6 @@ I’m a **DevOps enthusiast** and a fresher who’s passionate about automating,
 
 ---
 
-
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
