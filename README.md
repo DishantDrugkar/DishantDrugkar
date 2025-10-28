@@ -1,6 +1,6 @@
 
 
-#  Hii I'm Dishant Drugkar! 
+#  Hii I'm Dishant Drugkar
 
 I’m a **DevOps enthusiast** and a fresher who’s passionate about automating, deploying, and managing cloud native applications. With hands on experience in tools like Docker, Kubernetes, Jenkins, and Terraform, I’m continuously exploring the DevOps world to build efficient, reliable, and scalable systems. Currently diving deep into networking, CI/CD, and cloud native practices to sharpen my skills and contribute to real world projects.
 
