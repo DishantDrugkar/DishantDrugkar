@@ -2,14 +2,14 @@
 
 #  Hii I'm Dishant Drugkar
 
-I’m a **DevOps enthusiast** and a fresher who’s passionate about automating, deploying, and managing cloud native applications. With hands on experience in tools like Docker, Kubernetes, Jenkins, and Terraform, I’m continuously exploring the DevOps world to build efficient, reliable, and scalable systems. Currently diving deep into networking, CI/CD, and cloud native practices to sharpen my skills and contribute to real world projects.
+I’m a **Tech enthusiast** and a fresher who’s passionate about developing, automating, deploying applications. With hands on experience in tools like Docker, Kubernetes, Linux and Python. Currently diving deep into Python, React.js, and cloud to sharpen my skills and contribute to real world projects.
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,docker,kubernetes,aws,terraform,jenkins,prometheus,grafana" />
+  <img src="https://skillicons.dev/icons?i=linux,python,docker,kubernetes,aws,javascript,react" />
 </p>  
 
 ---
