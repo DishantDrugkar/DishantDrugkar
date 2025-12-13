@@ -9,7 +9,7 @@ I’m a **Tech enthusiast** and a fresher who’s passionate about developing, a
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,java,springboot,docker,kubernetes,aws,javascript,react" />
+  <img src="https://skillicons.dev/icons?i=linux,java,spring boot,docker,kubernetes,aws,javascript,react" />
 </p>  
 
 ---
