@@ -2,10 +2,9 @@
 
 #  Hii I'm Dishant Drugkar
 
-I’m a **Tech enthusiast** and a fresher who’s passionate about developing, automating, deploying applications. With hands on experience in tools like Docker, Kubernetes, Linux and Python. Currently diving deep into Python, React.js, and cloud to sharpen my skills and contribute to real world projects.
+I’m a **Tech enthusiast** and a fresher who’s passionate about developing, automating, deploying applications. With hands on experience in Java, Spring Boot, REST API, Linux. Currently diving deep into JavaScript, React.js, and cloud to sharpen my skills and contribute to real world projects.
 
----
-
+--
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
@@ -48,11 +47,6 @@ I’m a **Tech enthusiast** and a fresher who’s passionate about developing, a
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=DishantDrugkar&theme=radical" alt="GitHub Streak"/>
 </p>
 
-## 📖 Currently Learning  
-
-- 📌 Networking Fundamentals      
-- 📌 Terraform for Infrastructure as Code  
-- 📌 AWS (EKS, Lambda, Advanced Services)  
 
 
 ## 🤝 Let’s Connect  
