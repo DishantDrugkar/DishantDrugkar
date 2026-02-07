@@ -4,7 +4,7 @@
 
 I’m a **Tech enthusiast** and a fresher who’s passionate about developing, automating, deploying applications. With hands on experience in Java, Spring Boot, REST API, Linux. Currently diving deep into JavaScript, React.js, and cloud to sharpen my skills and contribute to real world projects.
 
---
+---
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
