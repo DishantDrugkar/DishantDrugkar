@@ -3,7 +3,7 @@
 # こんにちわ皆んなさん
 # I'm Dishant Drugkar
 
-I’m a **Tech enthusiast** and a fresher who’s passionate about developing, automating, deploying applications. With hands on experience in Java, Spring Boot, REST API, Linux, Computer Network. Currently diving deep into JavaScript, React.js, and cloud to sharpen my skills and contribute to real world projects.
+I’m a **Tech enthusiast** and currently working as a Software Engineer, who’s passionate about developing, automating, deploying applications. With hands on experience in Java, Spring Boot, REST API, Linux, Computer Network. Currently diving deep into JavaScript, React.js, and cloud to sharpen my skills and contribute to real world projects.
 
 ---
 ## 🛠️ Tech Stack & Tools  
