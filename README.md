@@ -2,12 +2,13 @@
   <img src="./software_engineer_github_banner.png" alt="Software Engineer Banner" width="100%"/>
 </p>
 
-# こんにちわ皆さん
+# こんにちは、皆さん 👋
 ## I'm Dishant Drugkar
 
 I’m a **Tech enthusiast** and currently working as a Software Engineer, who’s passionate about developing, automating, deploying applications. With hands on experience in Java, Spring Boot, REST API, Linux, Computer Network. Currently diving deep into JavaScript, React.js, and AI Tools to sharpen my skills and contribute to real world projects.
 
 ---
+
 
 ## 🛠️ Tech Stack & Tools  
 
@@ -16,6 +17,7 @@ I’m a **Tech enthusiast** and currently working as a Software Engineer, who’
 </p>  
 
 ---
+
 
 ## 📈 Contribution Overview  
 
@@ -43,4 +45,8 @@ I’m a **Tech enthusiast** and currently working as a Software Engineer, who’
 
 
 
-*Always learning. Always building.*
+<p align="center">
+
+  <i>Always learning. Always building. 🚀</i>
+
+</p>
