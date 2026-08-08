@@ -6,6 +6,7 @@
 I’m a **Tech enthusiast** and currently working as a Software Engineer, who’s passionate about developing, automating, deploying applications. With hands on experience in Java, Spring Boot, REST API, Linux, Computer Network. Currently diving deep into JavaScript, React.js, and AI Tools to sharpen my skills and contribute to real world projects.
 
 ---
+
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
@@ -14,28 +15,10 @@ I’m a **Tech enthusiast** and currently working as a Software Engineer, who’
 
 ---
 
-## 📊 GitHub Stats & Activity  
-
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" width="400">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DishantDrugkar&theme=radical" height="220"/>
-      </td>
-      <td align="center" width="400">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DishantDrugkar&theme=radical" height="220"/>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="400">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DishantDrugkar&theme=radical" height="220"/>
-      </td>
-      <td align="center" width="400">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DishantDrugkar&theme=radical&utcOffset=5.5" height="220"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DishantDrugkar&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
+
 
 
 ## 📈 Contribution Overview  
