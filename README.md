@@ -3,17 +3,19 @@
 </p>
 
 <p align="center">
-  <b>こんにちは、皆さん 👋</b>
+  <b>こんにちは、皆さん 👋🏻 </b>
 </p>
 
-## I'm Dishant Drugkar
+<h1 align="center">
+  <b>I'm Dishant Drugkar</b>
+</h1>
 
-I’m a **Tech enthusiast** and currently working as a Software Engineer, who’s passionate about developing, automating, and deploying applications. With hands-on experience in Java, Spring Boot, REST APIs, Linux, and Computer Networks. Currently diving deep into JavaScript, React.js, and AI Tools to sharpen my skills and contribute to real-world projects.
+
+I’m a **Tech enthusiast** and Aspiring Software Engineer, who’s passionate about developing, automating, and deploying applications. With hands-on experience in Java, Spring Boot, REST APIs, Linux, and Computer Networks. Currently diving deep into JavaScript, React.js, and DevOps Tools to sharpen my skills and contribute to real-world projects.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,java,spring,docker,postgresql,github,html,css,javascript,react" />
 </p>
@@ -21,7 +23,6 @@ I’m a **Tech enthusiast** and currently working as a Software Engineer, who’
 ---
 
 ## 📈 Contribution Overview
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DishantDrugkar&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
@@ -32,8 +33,7 @@ I’m a **Tech enthusiast** and currently working as a Software Engineer, who’
 
 ---
 
-## 🤝 Let’s Connect
-
+## Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/dishant-drugkar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dishant%20Drugkar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
