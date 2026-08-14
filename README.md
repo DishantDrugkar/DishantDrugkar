@@ -16,13 +16,14 @@ I’m a **Tech enthusiast** and Aspiring Software Engineer, who’s passionate a
 ---
 
 ## 🛠️ Tech Stack & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,java,spring,docker,postgresql,github,html,css,javascript,react" />
 </p>
 
----
 
 ## 📈 Contribution Overview
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DishantDrugkar&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
 </p>
@@ -31,9 +32,9 @@ I’m a **Tech enthusiast** and Aspiring Software Engineer, who’s passionate a
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=DishantDrugkar&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
 
 ## Let’s Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/dishant-drugkar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dishant%20Drugkar-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -44,7 +45,6 @@ I’m a **Tech enthusiast** and Aspiring Software Engineer, who’s passionate a
   </a>
 </p>
 
----
 
 <p align="center">
   <i>Always learning. Always building. 🚀</i>
