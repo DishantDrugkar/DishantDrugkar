@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>こんにちは、皆さん  </b>
+  <b>こんにちは、皆さん  👋🏻</b>
 </p>
 
 <h1 align="center">
