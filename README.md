@@ -25,11 +25,6 @@ I’m a **Tech enthusiast** and Aspiring Software Engineer, who’s passionate a
 
 ## 📈 Contribution Overview
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DishantDrugkar&theme=react-dark&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=DishantDrugkar&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
